@@ -48,7 +48,6 @@ I am passionate about cybersecurity and continuously seek to improve my knowledg
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%238A2BE2.svg?style=for-the-badge&logo=burp&logoColor=white) 
 ![Nmap](https://img.shields.io/badge/Nmap-%23E95632.svg?style=for-the-badge&logo=nmap&logoColor=white) 
 ![Vim](https://img.shields.io/badge/Vim-%23969696.svg?style=for-the-badge&logo=vim&logoColor=white) 
