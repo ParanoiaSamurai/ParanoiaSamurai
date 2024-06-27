@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 🤵 About Me:
 I am a dedicated Cybersecurity Specialist with extensive hands-on experience in penetration testing, vulnerability assessment and penetration testing (VAPT), blue teaming, threat hunting, and malware analysis. My current focus is on expanding my skill set in automation to delve into the dynamic field of DevSecOps. I actively participate in platforms like Hack The Box and engage in bug bounty programs to continuously sharpen my skills and contribute to the security community.
 
 ### Skills
